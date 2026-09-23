@@ -32,5 +32,7 @@ class MainActivity : AppCompatActivity() {
         btnBgColor.setOnClickListener {
             mainLayout.setBackgroundColor(Color.YELLOW)
         }
+
+        //Code for revert
     }
 }
